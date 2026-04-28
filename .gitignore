@@ -1,0 +1,26 @@
+# node modules
+node_modules/
+
+# env files
+.env
+
+# logs
+logs
+*.log
+npm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# uploads (optional, biar file user gak ke-push)
+server/uploads/
+server/results/
+
+# build files
+client/build/
+dist/
+
+# IDE
+.vscode/
+.idea/
